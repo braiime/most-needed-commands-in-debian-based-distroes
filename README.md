@@ -61,6 +61,5 @@ note: vs code in not officialy supported on debian
 
 
 
-a lot will be here soon
 
 
