@@ -1,5 +1,15 @@
 # most-needed-commands-in-debian-based-distroes
 
+
+
+update all sys data
+
+sudo apt update && sudo apt upgrade -y && sudo apt full-upgrade -y && sudo apt autoremove --purge -y && sudo apt clean
+
+
+
+
+
 vs code install
 
 
@@ -46,6 +56,8 @@ sudo apt install -y code
 
 
 note: vs code in not officialy supported on debian
+
+
 
 
 
